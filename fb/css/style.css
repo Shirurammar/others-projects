@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.colo {
+    background-color: whitesmoke;
+}
+
+.sec {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.sec img{
+    width: 16rem;
+    
+    
+}
+.sec img{
+    
+    margin-top: 3rem;
+    
+}
+.r{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.for {
+    margin-top: .7rem;
+    margin-bottom: 5rem;
+    background-color: #fff;
+    width: 390px;
+    height: 320px;
+  box-shadow: -1px 1px 15px 1px;
+    border-radius: .5rem;
+
+
+}
+
+.for h5 {
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.for input {
+    width: 95%;
+    background-color: #fff;
+    border: 1.5px solid rgb(200, 200, 200);
+  margin : .5rem .5rem;
+    padding: 1rem;
+    color: black;
+    border-radius: 5px;
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    outline: none;
+    display: block;
+}
+
+.for button {
+    background-color: #1877f2;
+    color: white;
+    width: 95%;
+    border-radius: .3rem;
+    margin: 1rem .5rem;
+    padding: 1rem;
+    display: block;
+    border: none;
+    border-radius: 5px;
+cursor: pointer;
+
+}
+
+.for a {
+    text-decoration: none;
+    text-align: center;
+    margin-left: 2.7rem;
+    font-size: .9rem;
+}
+.f{
+
+ justify-content: center;
+align-items: center;
+   margin-top: 5rem;
+    background-color: #fff;
+    width: 100%;
+    height: 170px;
+    margin-left: 7rem;
+}
+.c{
+    display: block;
+    
+
+}
+.f a{
+    text-decoration: none;
+    margin-left: .8rem;
+    font-size: .8rem;
+
+  
+}
+.c a{
+    text-decoration: none;
+    margin-left: .8rem;
+    font-size: .8rem;
+   
+}
+
+
+@media screen and (max-width: 395px)  {
+ .f{
+    display: inline;
+       margin-top: 5rem;
+        background-color: #fff;
+        width: 100%;
+        height: 170px;
+        
+ }
+.colo
+ .sec{
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+    }
+    .for{
+       
+ display: inline;
+ width: 100%;
+   
+}
+.colo{
+    padding-left:   3% ;
+    padding-right: 3%;
+}
+.for a{
+  display: flex;
+padding-right: 3rem;
+text-align: center;
+align-items: center;
+justify-content: center;
+
+}
+}
+

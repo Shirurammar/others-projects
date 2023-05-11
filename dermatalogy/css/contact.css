@@ -1,0 +1,10 @@
+.lab input{
+    border: 2px solid purple;
+}
+.text{
+    border: 2px solid purple;
+
+}
+.lab label{
+ font-weight: bold;
+}

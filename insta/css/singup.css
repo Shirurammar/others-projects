@@ -1,0 +1,161 @@
+.insta .sin{
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: gray;
+    margin-top: -.8rem;
+}
+.btn img{
+    width: 1.5rem;
+   margin-right: .5rem;
+   margin-bottom: .1rem !important;
+}
+.btn button{
+    width: 17.7rem;
+    margin-left: .2rem;
+    font-weight: bold;
+    font-size: .9rem;
+}
+.or{
+    font-weight: bold;
+    color: gray;
+    font-size: .8rem;
+}
+.lrean {
+    color: gray;
+    font-size: .8.5rem !important;
+}
+.lrean a{
+    text-decoration: none;
+  
+    font-size: .8.5rem;
+}
+.policy{
+    color: gray;
+    font-size: .8.5rem !important;
+}
+.policy a{
+    text-decoration: none;
+  
+    font-size: .8.5rem;
+}
+
+.cards{
+    margin-top: 3.9rem !important;
+    width: 350px;
+    margin-left: -1.1rem;
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cardp{
+    width: 350px;
+    height: 680px!important;
+   
+}
+.forms input{
+    margin: 0 1rem;
+    width: 90%;
+    background-color: #fff;
+    border: 1.5px solid rgb(200, 200, 200);
+    font-family: 'Segoe UI';
+    font-size: 12px;
+    outline: none;
+    border-radius: .3rem;
+}
+.forms button{
+    width: 90%;
+    margin: 0 1rem;
+    font-weight: bold;
+
+}
+.insta img{
+    width: 10rem !important;
+    margin: 2rem 4.5rem;
+} 
+
+
+.imgs img{
+  margin-left: 4.7rem;
+    width: 1.2rem;
+    text-align: center;
+}
+.p p{
+    font-weight: bold;
+    color: gray;
+    font-size: .8rem;
+}
+.imgs a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: .9rem;
+    color:rgb(61, 61, 242);
+}
+.imgs p{
+
+    
+    font-size: .8rem;
+}
+.sec{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.sec a{
+ text-decoration: none;
+ font-weight: bold;
+ font-size: .9rem;
+ margin-bottom: .1rem;
+}
+.card p{
+    font-size: .9rem;
+}
+.logo {
+    display: flex;
+}
+.logo .google{
+    width: 8.5rem;
+    margin-left: 2.1rem;
+}
+.logo .micro{
+    width: 6.5rem;
+    margin-left: 1rem;
+}
+footer{
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+   
+   
+}
+.foo{
+    display: flex !important;
+    align-items: center !important ;
+    justify-content: center !important;
+    flex-direction: column !important;
+  
+}
+.foot a{
+    text-align: center !important;
+    text-decoration: none;
+    font-size: .8rem;
+    margin-left: .6rem;
+    color: black;
+}
+.dropdown{
+    margin-left: -10rem;
+}
+.dropdown button{
+    background-color: #fff;
+    border: none;
+    font-size: .8rem;
+}
+.f p{
+    margin-left: 7rem;
+    margin-top: -2.2rem;
+    font-size: .8rem;
+}
